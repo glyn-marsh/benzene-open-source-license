@@ -1,31 +1,51 @@
-MIT License
+Benzene Open Source License v1.0.0
 
-Copyright (c) 2024 Glyn Marsh
+Copyright 2024 Glyn Marsh
 
-Permission is granted to ANY person(s) and/or legal entities obtaining
+Permission is granted to ANY person(s) and/or legal entity(s) obtaining
 a copy of the software, source code and/or associated binary(s), 
-associated with this license, in it's own file, or in a file(s) of
-source code and/or binary, full permition to execute all of the activities listed below:
+associated with this license, be it in it's own file, or in a file(s) of
+source code and/or binary, to be permissed to do the actions,
+but also are subject to the limitations and conditions for them listed below:
 
-1. You are FULLY allowed to use a copy of this software, modified or not, source code and/or binary, to infinite extent, for ANY purpose.
-2. You are FULLY allowed to create a copy of this software, modified or not, source code and/or binary, to infinite extent, for ANY purpose.
-3. You are FULLY allowed to modify a copy of this software, modified or not, source code and/or binary, to contribute, improve, and/or create your own copy of this sofware, to infinite extent, for any purpose.
-4. You are FULLY allowed to publish/distribute a copy of this software, modified or not, source code and/or binary, to infinite extent, for ANY purpose.
+1. You are FULLY allowed to use a copy of this software, modified or not,
+   source code and/or binary, to infinite extent, for ANY purpose.
+2. You are FULLY allowed to create a copy of this software, modified or not,
+   source code and/or binary, to infinite extent, for ANY purpose.
+3. You are FULLY allowed to modify a copy of this software, modified or not,
+  source code and/or binary, to contribute, improve, and/or create
+  your own copy of this sofware, to infinite extent, for ANY purpose.
+4. You are FULLY allowed to publish/distribute a copy of this software, modified or not,
+   source code and/or binary, to infinite extent, for ANY purpose.
+5. If this software, source or binary, ever switches to a closed source license,
+   ANYBODY is allowed to create an active open source archive of it under this license
+   if you create a line which says, "An active open source archive of [original project name]"
+   above the Copyright line.
+6. If the copyright holder is not the author, the author will still have all
+   the rights of the copyright holder.
 
-But no one is, not event the creator of the software is  not allowed to execute all of the activities listed below:
+But no person(s) and/or legal entity(s) is not allowed to execute ALL of the activities below:
 
-1. You are NOT allowed to patent a copy of this software, modified or not, source code and/or binary, for ANY purpose.
+1. You are NOT allowed to file a patent of a copy of this software, modified or not,
+   source code and/or binary, for ANY purpose, to ANY patent office, as doing so would be infringment.
+   Only the author(s) or a person(s) who has written permission
+   from the author can file a patent for a copy of this software, source code or binary.
+2. You must not use the author(s) or copyright holder's name to endorse
+   a modified copy(s) of this software, source code or binary, commercially.
+3. You must not file a claim, complaint, and/or lawsuit for this software,
+   source code or binary, modified or not, not living up to expectations.
+   This software is provided without warrenty of any kind unless
+   expressed by the author and/or copyright holder.
+4. You must not file a claim, complaint, and/or lawsuit for this software,
+   source code or binary, modified or not, causing damages of ANY kind.
+   The author and/or copyright holder are not liable for ANY damages caused
+   by the software unless expressed by the author and/or copyright holder.
 
-and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The above limitations apply to EVERYONE. However, only the above
+permissions are granted to those who meet the below conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. The entirety of this license has to be included in all copies of this software
+2. ALL modified copies of the software, source code or binary, have to use this license
+3. All modified copies of the software, source code or binary,
+   have to state that it is based off of this software by adding a line of text that says,
+   "Based off [name of project]" above the Copyright line.
